@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on CheungYeefan&#39;s Blog</title>
-    <link>www.zzyyfan.github.io/categories/</link>
+    <link>https://zzyyfan.github.io/categories/</link>
     <description>Recent content in Categories on CheungYeefan&#39;s Blog</description>
     <image>
       <title>CheungYeefan&#39;s Blog</title>
-      <url>www.zzyyfan.github.io/papermod-cover.png</url>
-      <link>www.zzyyfan.github.io/papermod-cover.png</link>
+      <url>https://zzyyfan.github.io/papermod-cover.png</url>
+      <link>https://zzyyfan.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="www.zzyyfan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://zzyyfan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
